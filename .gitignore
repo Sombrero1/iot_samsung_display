@@ -1,0 +1,12 @@
+BUILD
+__pycache__
+.mbed
+mbed-os
+picojson
+BUILD
+src/assets/*
+src/build/*
+src/config/*
+src/simulator/*
+src/touchgfx/*
+src/menu_f746.touchgfx
